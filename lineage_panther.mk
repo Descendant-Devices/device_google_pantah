@@ -29,4 +29,9 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 BUILD_FINGERPRINT := google/panther/panther:13/TQ1A.230105.001.A2/9325585:user/release-keys
 
+# Face Unlock
+PRODUCT_PACKAGES += \
+    FaceEnrollOverlay \
+    FaceEnrollSettingsOverlay
+
 $(call inherit-product, vendor/google/panther/panther-vendor.mk)
