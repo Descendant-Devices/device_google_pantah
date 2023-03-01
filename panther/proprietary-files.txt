@@ -231,7 +231,8 @@ product/priv-app/DMService/DMService.apk
 product/priv-app/DiagMon/DiagMon.apk
 product/priv-app/EuiccGoogle/EuiccGoogle.apk;PRESIGNED
 product/priv-app/TetheringEntitlement/TetheringEntitlement.apk
-product/priv-app/SCONE/SCONE.apk
+product/priv-app/SCONE/SCONE.apk;PRESIGNED
+product/priv-app/GoogleCamera/GoogleCamera.apk;PRESIGNED
 
 # VZW
 product/app/VZWAPNLib/VZWAPNLib.apk;PRESIGNED
